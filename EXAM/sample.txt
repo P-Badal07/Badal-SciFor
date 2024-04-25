@@ -1,0 +1,6 @@
+This is a sample text file.
+Hello, how are you today?
+I hope you are doing well.
+Let's count the lines, words, and letters in this file.
+Starting sentences with the same letter seems sensible sometimes.
+Sometimes simplicity surprises us.

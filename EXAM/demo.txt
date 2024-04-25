@@ -1,0 +1,7 @@
+i am writing a demo file.
+Hello, how are you today?
+my name is bimal choudhury
+I hope you are doing well.
+Let's count the lines, words, and letters.
+Starting sentences with the same letter seems sensible sometimes.
+sentences are in how many numbers.
